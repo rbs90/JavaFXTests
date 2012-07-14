@@ -1,0 +1,11 @@
+.task {
+  -fx-font-size: 20;
+  -fx-background-color: linear-gradient(#686868 0%, #232723 25%, #373837 75%, #757575 100%);
+  -fx-border-width: 5;
+  -fx-background-insets: 12;
+  -fx-border-insets: 10;
+  -fx-border-radius: 30;
+  -fx-border-color: red;
+  -fx-background-radius: 30;
+  -fx-text-fill: white;
+}
